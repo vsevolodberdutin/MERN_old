@@ -1,5 +1,5 @@
 {
     "port": 5000,
     "jwtSecret": "vsevolod mern test",
-    "mongoUri": "mongodb+srv://vsevolod:base0613@cluster0.lertp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoUri": "mongodb+srv://vsevolod:base0613@cluster-3.kmpuo.mongodb.net/MERN1?retryWrites=true&w=majority"
 }
